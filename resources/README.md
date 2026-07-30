@@ -1,5 +1,5 @@
 # Any and all resources
-## Please add whatever resources will be helpful in any way
+### Please add whatever resources will be helpful in any way
 
 #### General
 - [Excalidraw](https://excalidraw.com/) Whiteboard
