@@ -1,7 +1,7 @@
 # Crossman/Decker/Stenberg Family Reunion Website
 ### To get rid of the confusing email chain
 
-Check out the attached [project](https://github.com/users/mvandell/projects/5) for direction and brainstorming. Bear in mind, this is a big and ambitious, yet much needed website, so beware scope creep. [Discord Server Link](https://discord.gg/ffdZVCnMh)
+Check out the attached [project](https://github.com/users/mvandell/projects/5) for direction and brainstorming. Feel free to add to it. Bear in mind, this is a big and ambitious, yet much needed website, so beware scope creep. [Discord Server Link](https://discord.gg/ffdZVCnMh)
 
 Stack: 
 - Babel
